@@ -40,16 +40,16 @@ Build a complete risk analytics solution to:
 ## 📸 Dashboard Screenshots
 
 ### Page 1 — Executive Risk Summary
-![Page 1](insights/page1_executive_summary.png)
+![Page 1](insights/executive_summary.png)
 
 ### Page 2 — Risk Deep Dive
-![Page 2](insights/page2_risk_deep_dive.png)
+![Page 2](insights/risk_deep_dive.png)
 
 ### Page 3 — Customer Analysis
-![Page 3](insights/page3_customer_analysis.png)
+![Page 3](insights/customer_analysis.png)
 
 ### Page 4 — Business Recommendations
-![Page 4](insights/page4_recommendations.png)
+![Page 4](insights/business_recommendation.png)
 
 ## 💡 Business Recommendations
 
@@ -68,3 +68,10 @@ Build a complete risk analytics solution to:
 📧 ovean14272000@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/ovean-sugirdas)
 🐙 [GitHub](https://github.com/ovean1414)
+
+## 📌 Dataset Note
+The data in this project is synthetic, generated using 
+[Python / MySQL stored procedures] to simulate realistic 
+patterns. The business scenario is fictional. The goal is 
+to demonstrate end-to-end analytics skills: data modeling, 
+SQL analysis, DAX and dashboard design.
